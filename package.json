@@ -5,7 +5,8 @@
   "description": "module A",
   "main": "lib",
   "dependencies": {
-    "modb": "jstamerj/modb"
+    "modb": "jstamerj/modb",
+    "modc": "jstamerj/modc"
   },
   "devDependencies": {
   }
